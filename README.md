@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zzahti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Zakaria Zahti,
+- 👀 I'am interested in programming, especially developing web pages and mobile applications,
+- 🌱 I'm currently learning Flutter,
+- 💞️ I'm looking to collaborate on Ab9or blog (https://www.ab9or.com)
+- 📫 You can message me on Linkedin (https://www.linkedin.com/in/zahti/).
 
 <!---
 zzahti/zzahti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
