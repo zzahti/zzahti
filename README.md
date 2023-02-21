@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zakaria Zahti,
 - 👀 I'am interested in programming, especially developing web pages and mobile applications,
 - 🌱 I'm currently learning Flutter,
-- 💞️ I'm looking to collaborate on Ab9or blog (https://www.ab9or.com)
+- 💞️ I'm looking to collaborate on ZZAHTI (https://www.zzahti.com)
 - 📫 You can message me on Linkedin (https://www.linkedin.com/in/zahti/).
 
 <!---
